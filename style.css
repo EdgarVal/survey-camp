@@ -1,0 +1,57 @@
+#main {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background: orange;
+    line-height: 1.5;
+    padding-bottom: 20px;
+}
+
+#form {
+    background: white;
+    display: inherit;
+    margin: 0 auto;
+    padding: 10px;
+    width: 750px;
+    height: auto;
+    
+}
+
+.labels {
+    display: inline-block;
+    text-align: right;
+    width: 40%;
+    padding: 5px;
+    vertical-align: top;
+    margin: 10px 0 0 0;
+}
+
+.right {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    width: 48%;
+}
+
+.input-field {
+    width: 280px;
+    height: 30px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#dropdown {
+    height: 40px;
+    width: 150px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.userRating, input[type="checkbox"]{
+    float: left;
+    margin-right: 5px;
+}
+
+.radio, .checkbox {
+
+}
